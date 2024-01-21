@@ -1,0 +1,18 @@
+Your task is to create an HTML and CSS for the FlowerShop website's "hero" section. Flowershop is a site that sells any and all sorts
+of flowers-both in and out-of-season- and for any and all occassions.
+
+
+
+The hero section should include a main heading, subheading, a short description of the FlowerShop, and a call to action link styled 
+as a button.
+
+
+
+Consider the following guidelines for the code:
+1.Ensure the code is easy to understand for non-coders and avoid the use of complex CSS features.
+2. Use a claude monet type of colour palette, with a focus on the colourful and fresh quality of his paintings, and use that as a
+   guideline for the theme of the page.
+3.DOcument each CSS property with a short comment to explain its use.
+
+
+Your final result should be an engaging and visually appealing hero section that affectively shows the FlowerShop brand.

@@ -1,0 +1,65 @@
+/* Resets the default margins and paddings provided by the browser */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styling */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Aesthetic and modern font */
+    line-height: 1.6; /* Gives more readable line spacing */
+    color: #333; /* Sets a basic color for the body text */
+  }
+  
+  /* Hero section styling */
+  .hero {
+    background-color: #f4e2d8; /* A light peach background color inspired by Monet's pastel shades */
+    padding: 40px 20px; /* Padding inside the hero section */
+    text-align: center; /* Centers the text horizontally */
+  }
+  
+  /* Hero text container styling */
+  .hero-text {
+    max-width: 600px; /* Maximum width of the text container */
+    margin: auto; /* Centers the container in the middle of the page */
+    
+  }
+  
+  /* Main heading styling */
+  h1 {
+    color: #8a5b44; /* Monet-inspired earthy tone for the main heading */
+    margin-bottom: 0.5rem; /* Space below the heading */
+  }
+  
+  /* Subheading styling */
+  h2 {
+    color: #84412f; /* A soft brown color, complementing the main heading */
+    margin-bottom: 1rem; /* Space below the subheading */
+  }
+  
+  /* Paragraph styling */
+  p {
+    color: #5f4e46; /* A darker shade for paragraph to ensure readability */
+    line-height: 2;
+    margin-bottom: 1.5rem; /* Space below the paragraph */
+  }
+  
+  /* Call to action button styling */
+  .cta-button {
+    background-color: #deb6a1; /* A warm shade inspired by Monet's palette */
+    color: #fff; /* White text for better contrast and readability */
+    padding: 10px 20px; /* Padding around the text */
+    border: none; /* No border for a modern look */
+    border-radius: 5px; /* Rounded corners for the button */
+    text-decoration: none; /* Removes the underline from the link */
+    font-size: 2rem; /* Sets the font size for the button text */
+    transition: background-color 0.3s ease; /* Smooth background color transition on hover */
+  }
+  
+  /* Button hover effect */
+  .cta-button:hover {
+    background-color: #c89b8d; /* Darkens the button color on hover for interaction */
+    cursor: pointer; /* Changes the cursor to indicate the link can be clicked */
+  }
+  
